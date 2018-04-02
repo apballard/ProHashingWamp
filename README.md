@@ -21,11 +21,17 @@ If you would like some features added, just ask... I'll see what I can do, no gu
 If you find this helpfull, please consider donating/tiping:
 
 BTC: 1593CqFcBuisDs7QudsvgVmmt2iJ5Jn7Yy
+
 ZEC: t1bQpno1U4RoJaGHCytwBqEEz16X6bGjSHe
+
 ETH: 0x7ceae46b0d0fdcddd8f074866a188eb43497ded0
+
 LTC: LS7rDpAB6WWySsXB2ThidK9SemQieGeMfa
+
 DSH: XxUL9hVUAZsHTk2XnnEHABMPZqGW5FZcM6
+
 DGE: DSGkYLzKkKPaquiDBWsciJDRak47HGoWWw
+
 BCH: 1KHGH6Po4kGQMun8HS9sXiJsgGri4q9TQq
 
 Special thanks to the developers of wampsharp.
